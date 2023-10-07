@@ -19,3 +19,12 @@ Batman thinks of you in the shower.
 
 
 ![checkers](https://github.com/777388/Lypi/assets/96343159/dbc5ecc2-5c7f-4d73-9e4f-e5ac74bdaf63)
+
+It makes me think of Plaid
+
+![sure](https://github.com/777388/Lypi/assets/96343159/434cfb10-5fc4-4676-a835-3fae7b923867)
+
+
+Also, The Frylock Scrolls have been opened
+
+![yoshiyohoshiwa](https://github.com/777388/Lypi/assets/96343159/0a6f0314-e8ba-412e-b475-3f190002cc69)
