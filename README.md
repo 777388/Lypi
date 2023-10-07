@@ -1,6 +1,10 @@
 # Lypi
 Lycan's Anonymous Pi encryption visualizer. 
 
+Usage python3 lypi.py (number greater than 10) filename
+
+Usage python3 lypi2.py (number greater than 10) "enter your string"
+
 Using this detail you could make yourself a decent art collection, or just trip your boss out while he thinks you're doing important work.
 
 Examples:
