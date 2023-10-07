@@ -14,3 +14,8 @@ Or you could even make yourself a Pokemon Gym, this is from statistics from my o
 You ever been seduced by an Orangutan?
 
 ![southpark](https://github.com/777388/Lypi/assets/96343159/ab6da3cd-bf7f-4775-9b8c-e345450f8d13)
+
+Batman thinks of you in the shower.
+
+
+![checkers](https://github.com/777388/Lypi/assets/96343159/dbc5ecc2-5c7f-4d73-9e4f-e5ac74bdaf63)
